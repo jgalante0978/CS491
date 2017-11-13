@@ -6,7 +6,7 @@ body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldse
 
 html {
 	height: 100%;
-	overflow-y: scroll; 
+	overflow: auto; 
 
 /*	overflow-y: scroll;   //scroll or auto some say not auto
   	-webkit-overflow-scrolling: touch;
